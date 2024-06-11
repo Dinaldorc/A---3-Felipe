@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# Quem Somos
+# Quem Somos Nós
 
 
 **1. Interagir com o Chatbot:**
